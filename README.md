@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/Ul4itay/rsschool-cv/blob/gh-pages/cv.md
+https://ul4itay.github.io/rsschool-cv/cv
